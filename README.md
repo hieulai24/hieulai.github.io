@@ -20,7 +20,7 @@
     <td>Abc6</td>
   <p>HTML là chữ viết tắt của HyperText Markup Language, dịch ra tiếng Việt có nghĩa là ngôn ngữ đánh dấu siêu văn bản.</p>
 </table>
-   <h2>Đây là một tầm hình</h2>
+   <h2>Đây là một tấm hình</h2>
    <img src="http://webcoban.vn/image/cat-2.jpg">
 <form>
  <form action="/action_page.php">
